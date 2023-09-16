@@ -1,6 +1,14 @@
-{
-  "marca": "volkswagen",
-  "modelo": "gol",
-  "anio": 2006,
-  "Color": "Negro"
-}
+[
+  {
+    "marca": "volkswagen",
+    "modelo": "gol",
+    "anio": 2006,
+    "Color": "Negro"
+  },
+  {
+    "marca": "fiat ",
+    "modelo": "147",
+    "anio": 1995,
+    "Color": "blanco"
+  }
+]
