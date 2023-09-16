@@ -1,6 +1,12 @@
-{
+[{
   "marca": "toyota",
   "modelo": "corolla",
   "anio": 2014,
   "Color": "Blanco"
-}
+},
+{
+  "marca": "volkswagen",
+  "modelo": "gol power",
+  "anio": 2011,
+  "Color": "gris"
+}]
